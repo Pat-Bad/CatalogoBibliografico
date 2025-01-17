@@ -60,9 +60,16 @@ public abstract class ElementoCatalogo implements controlloISBN {
     }
 
     //metodi astratti, comuni a libri e riviste
-    public void searchISBN() {}
-    public void searchYear() {}
-    public void updatedElement() {}
-    public void stampaTotale() {}
+    public void searchISBN() {
+    }
+
+    public void searchYear() {
+    }
+
+    public void updatedElement() {
+    }
+
+    public void stampaTotale() {
+    }
 
 }
